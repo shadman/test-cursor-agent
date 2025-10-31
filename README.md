@@ -1,4 +1,4 @@
-# test-cursor-agent
+# test-git-copilot
 
 A small placeholder repository for experimenting with a cursor agent implementation and related tests.
 
